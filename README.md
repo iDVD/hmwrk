@@ -1,5 +1,5 @@
 #Project has two sides
-# Side one working code
+# Side one working code (raw)
 # Side two stuckture
 #
 # To run code Playwright and Nodejs should be installed:
